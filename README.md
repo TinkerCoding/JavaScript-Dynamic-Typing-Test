@@ -9,4 +9,3 @@ An interactive typing test for web users with JavaScript code.
 - Show results.
 
 # Image
-![](images/github-one.png)
